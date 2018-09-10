@@ -1,0 +1,9 @@
+Package: com.kaitouiet.griddy
+Name: Griddy
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Grid style app switcher iOS 11!
+Maintainer: Kiet Ha
+Author: Kiet Ha
+Section: Tweaks
