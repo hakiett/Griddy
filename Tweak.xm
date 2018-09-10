@@ -10,6 +10,6 @@
 }
 
 -(void)setSwitcherStyle:(long long)arg1 {
-  %orig(2);
+  	%orig(2);
 }
 %end
